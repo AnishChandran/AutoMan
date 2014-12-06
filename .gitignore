@@ -1,0 +1,14 @@
+.idea
+.javaccheck
+.patchcheck
+.svncheck
+.unzipcheck
+.jarcheck
+*.iml
+jars
+out
+tmp
+target/
+AutomanMemoDB/
+ThunkLogDB/
+derby.log
